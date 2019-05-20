@@ -1,0 +1,239 @@
+/* 
+  Localizable.strings
+  SkinCancer
+
+  Created by Malin Chhan on 3/14/19.
+  Copyright © 2019 Fellow Consutling AG. All rights reserved.
+*/
+
+//Welcome screen
+"WELCOME_TO" =  "Welcome to";
+"SKIN_CANCER" = "Skin cancer";
+"SKIN_CANCER_AFFECT" =  "Skin cancer can affect everyone.";
+"KEEP_TRACK" = "Keep track of your birthmarks";
+"PHOTOGRAPH_MOLE" = "Photograph your birthmarks";
+"SEE_CHANGES" = "See the changes";
+"CHECK_PROBABILITY" = "Let's check the probability";
+"INVITE_OTHERS" = "Invite Others to view or make change to a note.";
+"PHOTO_DATABASE" = "Photo Database";
+"PHOTO_DATABASE_FULL" = "Photos are saved in a database";
+"CONTINUE" = "Continue";
+
+//Tab
+"PROFILE" = "Profile";
+"LIST" = "List";
+"PHOTOS" = "Photos";
+"CALENDAR" = "Calendar";
+"MORE" = "More";
+
+//Profile tab
+"PHOTO" = "Photo";
+"MOLE" = "birthmark";
+"MOLES" = "birthmarks";
+"SUSPICIOUS" = "Supicious";
+"GENDER" = "Gender";
+"MALE" = "Male";
+"FEMALE" = "Female";
+"REMINDER" = "Reminder";
+"NONE" = "None";
+"QUARTERLY" = "Quarterly";
+"HALF_YEARLY" = "Half-yearly";
+"YEARLY" = "Yearly";
+"OWN" = "Own";
+"OWN_REMINDER" = "Own Reminder";
+"DAILY" = "Daily";
+"WEEKLY" = "Weekly";
+"MONTHLY" = "Monthly";
+"TWO_MONTHLY" = "2 monthly" ;
+"GENDER_UPDATED_SUCCESS"= "Gender is updated successfully.";
+"GENDER_UPDATED_FAIL" = "Fail to update Gender";
+"REMINDER_UPDATED_SUCCESS" = "Reminder is updated successfully.";
+"REMINDER_UPDATED_FAIL" = "Fail to update Reminder";
+
+//List tab and Mole Detail
+"OVERVIEW" = "Overview";
+"NOT_FOUND" = "Not Found";
+"MOLES_NOT_FOUND" = "BIRTHMARKS NOT FOUND";
+"DETAIL" = "Detail";
+"REGULAR_TITLE" = "The app has no change or abnormality in the birth mark detected.";
+"REGULAR_SUBTITLE" = "It does not replace the visit to the dermatologist.";
+"IRREGULAR_TITLE" = "The app has detected irregularities in the birth mark.Please contact the dermatologist for a check-up.";
+"IRREGULAR_MAP_RESULTS" = "The app has detected following possible irregularities in the birth mark. Please contact the dermatologist for a check-up.";
+"COMPUTING" = "Computing";
+"INDICATION" = "Indication";
+"INDICATION_FROM_DOCTOR" = "Indication from doctor";
+"UPLOAD" = "Upload";
+"UPLOAD_NEW" = "Upload diagnostic report";
+"DOCTORS_DIAGNOSIS" = "Diagnosis";
+"ARE_YOU_SURE_TO_DELETE_CURRENT_OPEN_DOCUMENT" = "Are you sure to delete currently open diagnosis document?";
+"DOUCMENT_REMOVED_SUCCESSFULLY" = "Document removed successfully";
+"ARE_YOU_SURE_TO_DELETE_CURRENT_OPEN_IMAGE" = "Are you sure to delete currently open birthmark image?";
+"MOLE_IMAGE_REMOVED_SUCCESSFULLY" = "Mole image removed successfully";
+"MOLE_REMOVED_SUCCESSFULLY" = "Birthmark removed successfully";
+
+
+"LOOK_FOR_DERMATOLOGIST" = "Look for the nearest dermatologist";
+"BODY_SPOT"  = "Body Spot";
+"COMMENTS" = "Comments";
+"CHANGES" = "Changes";
+"ARE_YOU_SURE_TO_DELETE" = "Are you sure you want to delete";
+"DELETE" = "Delete";
+"CANCEL" = "Cancel";
+"MOLE_SAVED_SUCCESS" = "Birthmark is saved successfully.";
+"SAVE" = "Save";
+"ARE_YOU_SURE_TO_DELETE_ALL_IMAGES" = "You are removing all images for this birthmark. This will also remove the birthmark from list. Do you want to continue?";
+
+
+//Body part lists
+"FACE" = "face";
+"HEAD" = "head";
+"NECK" = "neck";
+"HAND" = "hand";
+"ARM" = "arm";
+"CHEST" = "chest";
+"BELLY" = "belly";
+"BACK" = "back";
+"BOTTOM" = "bottom";
+"THIGHT" = "thight";
+"LEG" = "leg";
+"FOOT" = "foot";
+
+//New Mole
+"ADD" = "Add";
+"NEW" = "New";
+"ADD_NEW_MOLE" = "Add New birthmark";
+"SET_BODY_PART" = "Set your body part";
+"BODY_PART" = "Body part";
+"MARK_SPOT_ON_BODY" = "Mark the spot on the body";
+"MARK_A_SPOT" = "Mark a spot";
+"SELECTED_SPOT" = "Selected spot";
+"SPOT" = "Spot";
+"NEXT" = "Next";
+"DONE" = "Done";
+"CAMERA" = "Camera";
+"STORAGE" = "Storage";
+"CHOOSE_LIBRARY" = "Choose from library";
+"CAMERA_NOT_AVAILABLE" = "Camera is not available.";
+"PROCESSING" = "Processing";
+"SYDICATING" = "The App is syndicating";
+
+
+//Recognition lists
+"RECOGNITION"  = "Recognition";
+"RECOGNITION_TITLE" = "The ABCDE rules is a help to detect altered birthmarks.";
+"ASYMMETRY" = "Asymmetry";
+"BORDERS" = "Borders";
+"COLOR" = "Color";
+"DIAMETER" = "Diameter";
+"EVOLVING" = "Evolving";
+"BLOODY" = "Bloody";
+"ITCHY" = "Itchy";
+"BURNING" = "Burning";
+"NEW_BIRTHMARK" = "New birthmark";
+"CHOOSE_SIZE" = "Choose size";
+
+//Photos tab
+"SELECT" = "Select";
+"SELECT_PHOTOS" = "Select photos";
+"SELECT_ALL" = "Select All";
+"DESELECT_ALL" = "Deselect All";
+"SELECTED" = "selected";
+"PHOTO_DELETED" = "Photo is deleted successfully.";
+"PHOTOS_DELETED" = "Photos are deleted successfully.";
+"DAY" = "Day";
+
+
+//Appointment
+"APPOINTMENT" = "Appointment";
+"EDIT" = "Edit";
+"TITLE" = "Title";
+"PLACE" = "Place";
+"ALL-DAY" = "All-day";
+"START" = "Start";
+"END" = "End";
+"DATE" = "Date";
+"REPEAT" = "Repeat";
+"LOCATION" = "Location";
+"NEVER" = "Never";
+"EVERY" = "Every";
+"EVERY_WEEKS" = "Every Week";
+"EVERY_TWO_WEEKS" = "Every 2 Weeks";
+"EVERY_MONTH" = "Every Month";
+"EVERY_YEAR" = "Every Year";
+"THIS" = "this";
+"APPOINTMENT_ADDED" = "Appointment is added.";
+"APPOINTMENT_UPDATED" = "Appointment is updated.";
+"WARNING" = "Warning";
+"DATE_WARNING" = "The start date must be before end date.";
+"TITLE_REQUIRED" = "Title is required.";
+"FROM" = "from";
+"TO" = "to";
+"ALL_DAY" = "All day";
+
+//More tab
+"HELP" = "Help";
+"IMPRINT" = "Imprint";
+"DATA_PROTECTION" = "Data protection";
+"SIGN_OUT"= "SIGN OUT";
+
+//Others
+"PUSH_MESSAGE" = "You should check your birthmarks again.";
+"OFFLINE_MESSAGE" = "No Internet Connection";
+"OK" = "OK";
+"REQUEST_FAIL" = "Request failed.";
+"TIME" = "Time";
+"SELECT_TIME" = "Select Time";
+"CHOOSE_TIME" = "Choose Time";
+"CHOOSE_DAY_TIME" = "Choose Day and Time";
+"DAY_AND_TIME" = "Day and Time";
+
+
+
+//Cancer type names
+"GLOMUSTUMOR" = "Glomustumor";
+"NÄVUS SPITZ" = "Nevus Spitz";
+"HÄMANGIOM" = "Hemangioma";
+
+"ATYPISCHES FIBROXANTHOM" = "Atypical fibroxanthoma";
+"SEBORRHOISCHE KERATOSE" = "Seborrheic keratosis";
+"KAPOSISARKOM" = "Kaposi's sarcoma";
+
+"AKTINISCHE KERATOSE" = "Actinic keratosis";
+"ZYLINDROM" = "Cylindroma";
+"LENTIGO" = "Lentigo";
+
+"TRICHOEPITHELIOM" = "Trichoepithelioma";
+"PLATTENEPITHELKARZINOM" = "Squamous";
+"PILOMATRIXOM" = "Pilomatricoma";
+
+"MILIE" = "Milie";
+"GRANULOMA PYOGENICUM" = "Granuloma pyogenicum";
+"BASALZELLKARZINOM" = "Basal cell carcinoma";
+
+"NÄVUSZELLNÄVUS" = "Nevus cell nevus";
+"MORBUS BOWEN" = "Bowen's disease";
+"NÄVUS BLEU" = "Blue nevus";
+
+"BOWENKARZINOM" = "Bowen carcinoma";
+"BENIGN" = "Benign";
+"MELANOM" = "Melanoma";
+
+"MELANOMA IN SITU" = "Melanoma in situ";
+"NEUROFIBROM" = "Neurofibroma";
+"MERKELZELLKARZINOM" = "Merkel cell carcinoma";
+
+"GUTARTIG" = "Benign";
+"EPHELIDEN" = "Epheliden";
+"LYMPHOM" = "Lymphoma";
+
+"DERMATOFIBROMSARKOMA PROTUBERANS" = "Dermatofibroma Sarcoma Protuberans";
+"SPIRADENOM" = "Spiradenom";
+"PAPILLOMATÖSER MELANOZYTÄRER NÄVUS" = "Papillomatous melanocytic nevus";
+
+"MORBUS PAGET" = "Paget's disease";
+"METASTASE" = "Metastasis";
+"KLARZELLLAKANTHOM" = "Clear Cell Acanthomas";
+
+"HIDROZYTOM" = "hydrocystoma";
+"EPIDERMOIDZYSTE" = "Epidermoid cyst";
+"ANGIOSARKOM" = "Angiosarcoma";
